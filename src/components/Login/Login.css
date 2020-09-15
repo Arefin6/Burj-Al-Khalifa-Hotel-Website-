@@ -1,0 +1,24 @@
+.googlesignin-btn{
+   margin: 50px 500px;
+   background-color: white;
+   border:none;
+   box-shadow: 10px 10px 20px whitesmoke;
+   display: flex;
+   width:330px;
+   padding: 20px;
+   cursor: pointer;
+   
+}
+.googlesignin-btn img{
+    width:70px;
+}
+.googlesignin-btn:focus{
+   outline: none;
+}
+.g-text{
+    width:60%;
+    padding-top: 1.5rem;
+    font-size: 18px;
+
+    
+}
